@@ -23,7 +23,6 @@ public class activity_selection {
                 lastEnd = activities[i][1];
             }
         }
-
         System.out.println("Maximum non-overlapping activities: " + count);
     }
 }
